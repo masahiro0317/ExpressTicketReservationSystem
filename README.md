@@ -1,0 +1,2 @@
+# ExpressTicketReservationSystem
+Java Swingによる特急券支払いシステム。UX設計にこだわった構造。
